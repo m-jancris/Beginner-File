@@ -1,2 +1,2 @@
-//version 2
+//version 12
 console.log("Hello BUDDY!");
